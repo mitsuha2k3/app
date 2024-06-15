@@ -1,0 +1,37 @@
+4 tab (Home, tìm kiếm, user, cài đặt)
+                                            (Xong)
+    Tab cài đặt: 
+        Giao diện sáng tối                  .
+        thông báo                           Thiếu phần công tắc và chức năng
+        Cài đặt nội dung                    Thiếu phần công tắc và chức năng
+        Báo cáo, hỗ trợ, góp ý              
+        Ngôn ngữ                            
+        Giới thiệu app                      
+        Cỡ chữ()                            
+    Tab User :                              
+        Đăng nhập       |                   
+        Đăng kí         |                   
+        quên mật khẩu   |                   
+        Giao diện:                          
+            avatar                          
+            Họ tên hoặc biệt danh           
+            email                           
+            sdt()                           
+            Ngày tháng năm sinh()           
+        Chỉnh sửa thông tin cá nhân:        
+            ảnh đại diện                    
+            Tên                             
+            email                           
+            sdt()                           
+            ...
+        Đăng xuất                           
+    Tab Tìm kiếm:                           
+        Thanh tìm kiếm                      
+        bộ lọc                              
+    Tab home                                
+        Đoạn xem trước                      
+        thanh cuộn trang                    
+        giao diện                           
+        bộ lọc                              
+        ...
+
